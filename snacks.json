@@ -1,0 +1,81 @@
+{
+  "snacks": [
+    {
+      "name": "Apple Chips",
+      "qualities": ["Crunchy", "Sweet", "Fruity"]
+    },
+    {
+      "name": "Frozen Yogurt",
+      "qualities": ["Sweet", "Cold", "Soft"]
+    },
+    {
+      "name": "Popcorn",
+      "qualities": ["Crunchy", "Salty"]
+    },
+    {
+      "name": "Bowl of Fruit",
+      "qualities": ["Sweet", "Cold", "Fruity"]
+    },
+    {
+      "name": "Frozen Grapes",
+      "qualities": ["Cold", "Crunchy", "Fruity", "Sweet", "Cold"]
+    },
+    {
+      "name": "Ginger Plum Tea",
+      "qualities": ["Sweet", "Fruity", "Warm"]
+    },
+    {
+      "name": "Boiled Eggs",
+      "qualities": ["Savory", "Soft"]
+    },
+    {
+      "name": "Trail Mix",
+      "qualities": ["Savory", "Crunchy", "Sweet", "Salty"]
+    },
+    {
+      "name": "Yogurt",
+      "qualities": ["Cold", "Creamy", "Sweet", "Soft"]
+    },
+    {
+      "name": "Almonds",
+      "qualities": ["Crunchy", "Salty"]
+    },
+    {
+      "name": "Edamame",
+      "qualities": ["Crunchy", "Salty"]
+    },
+    {
+      "name": "Cottage Cheese",
+      "qualities": ["Soft", "Cold", "Savory"]
+    },
+    {
+      "name": "Veggies and Hummus",
+      "qualities": ["Soft", "Crunchy", "Savory", "Salty"]
+    },
+    {
+      "name": "Avocado",
+      "qualities": ["Soft", "Creamy", "Salty"]
+    },
+    {
+      "name": "Beef Sticks",
+      "qualities": ["Salty", "Savory", "Chewy", "Spicy"]
+    },
+    {
+      "name": "Turkey Rollup",
+      "qualities": ["Soft", "Savory"]
+    }
+  ],
+  "qualities" : [
+    "Chewy",
+    "Cold",
+    "Creamy",
+    "Crunchy",
+    "Fruity",
+    "Salty",
+    "Savory",
+    "Soft",
+    "Spicy",
+    "Sweet",
+    "Warm"
+  ]
+}
